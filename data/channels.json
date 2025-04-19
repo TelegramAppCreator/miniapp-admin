@@ -22,5 +22,11 @@
     "description": "C’est un canal de test.",
     "lien": "https://t.me/testchannel",
     "contact": "@testadmin"
+  },
+  {
+    "nom": "Canal Test",
+    "description": "C’est un canal de test.",
+    "lien": "https://t.me/testchannel",
+    "contact": "@testadmin"
   }
 ]
