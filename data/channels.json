@@ -1,12 +1,8 @@
-{
-    "channels": [
-      {
-        "id": 1,
-        "name": "Plug test",
-        "description": "Test depuis Telegram",
-        "link": "https://t.me/testchannel",
-        "contact": "Admin"
-      }
-    ]
+[
+  {
+    "nom": "Canal Test",
+    "description": "C’est un canal de test.",
+    "lien": "https://t.me/testchannel",
+    "contact": "@testadmin"
   }
-  
+]
